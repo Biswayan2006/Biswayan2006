@@ -26,7 +26,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswayan2006&theme=radical" height="150px"/>
 </div>
 
-🔥 **Most Used Languages:**  
+---
+
+## 🔥Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biswayan2006&layout=compact&theme=radical)
 
 ---
